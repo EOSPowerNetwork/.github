@@ -1,14 +1,12 @@
-# The EOS Power Network
-
-## Rebooting EOS DeFi
+# Rebooting EOS DeFi
 
 Bringing new capabilities to DeFi, only possible on the EOS Public Blockchain. See [eospower.network](https://eospower.network) for more information.
 
 For developer documentation, see [docs.eospower.network](https://docs.eospower.network).
 
-## Ancillary projects
+# Ancillary projects
 
-### Developer tooling
+## Developer tooling
 
 The EPN also released public repositories to ease the development of EOS smart contracts using the latest tooling and technology.
 
